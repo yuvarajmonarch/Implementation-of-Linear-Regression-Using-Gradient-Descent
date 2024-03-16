@@ -8,10 +8,11 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Prepare data and split it into training and testing sets.
+2. Initialize model parameters and set hyperparameters such as learning rate and number of iterations.
+3. Use gradient descent to iteratively update model parameters to minimize the loss function.
+4. Evaluate model performance using testing data.
+5. Deploy the trained model for making predictions on new data points.
 
 ## Program:
 ```
